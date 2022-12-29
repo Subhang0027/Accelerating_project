@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Dec 29 18:05:58 2022
+# Process ID: 32192
+# Current directory: D:/Masters/APLC/Project/PLC_project/PLC_project.runs/PLC_project_processing_system7_0_0_synth_1
+# Command line: vivado.exe -log PLC_project_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PLC_project_processing_system7_0_0.tcl
+# Log file: D:/Masters/APLC/Project/PLC_project/PLC_project.runs/PLC_project_processing_system7_0_0_synth_1/PLC_project_processing_system7_0_0.vds
+# Journal file: D:/Masters/APLC/Project/PLC_project/PLC_project.runs/PLC_project_processing_system7_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source PLC_project_processing_system7_0_0.tcl -notrace

@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"PLC_project": {
+			"proto_instances": {
+			}
+		}
+	}
+}

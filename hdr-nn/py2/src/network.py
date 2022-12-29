@@ -69,21 +69,15 @@ class Network(object):
                 self.update_mini_batch(mini_batch, eta)
             if test_data:
                 print("Epoch {0}: {1} / {2}".format(
-                    j, self.evaluate(test_data), n_test))   
+                    j, self.evaluate(test_data), n_test))
             else:
                 print("Epoch {0} complete".format(j))
         # print "Weights/bias after trained"
-        print (type(self.weights))
-        print (type(self.biases))
-
-        sys.stdout = open("data.txt", "w")
-        print(self.weights)
-        print("-----------")
-        print(self.biases)
+        sys.stdout = open("weights_and_Biases.txt", "w")
+        print (self.weights)
+        print (self.biases)
         sys.stdout.close()
         
-       
-
     def update_mini_batch(self, mini_batch, eta):
         """Update the network's weights and biases by applying
         gradient descent using backpropagation to a single mini batch.

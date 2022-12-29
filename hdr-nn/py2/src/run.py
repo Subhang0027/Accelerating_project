@@ -3,6 +3,7 @@
 
 import mnist_loader
 import sys
+
 training_data, validation_data, test_data = mnist_loader.load_data_wrapper()
 training_data = list(training_data)
 test_data = list(test_data)

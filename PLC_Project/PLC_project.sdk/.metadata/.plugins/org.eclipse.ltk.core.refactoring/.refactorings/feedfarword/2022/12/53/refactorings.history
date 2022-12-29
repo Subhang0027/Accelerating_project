@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;feedfarword/src/helloworld.c&apos; to &apos;feedfarword.c&apos;" description="Rename resource &apos;helloworld.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/helloworld.c" name="feedfarword.c" stamp="1672333834004" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;feedfarword/src/weights_and_biases&apos; to &apos;weights_and_biases.h&apos;" description="Rename resource &apos;weights_and_biases&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/weights_and_biases" name="weights_and_biases.h" stamp="1672333924122" updateReferences="true"/>
+</session>
